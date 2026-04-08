@@ -35,7 +35,3 @@ Open `index.html` in any browser. An internet connection is needed to load the G
 - Inline `<span>` styling for typography color accents
 - Image sizing within card containers
 - Google Fonts integration via `<link>` tag
-
----
-*Part of the Antigravity project collection — Saptarshi Sadhu*
-"# creative-agency-landing-page" 
